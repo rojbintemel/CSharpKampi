@@ -165,4 +165,4 @@ namespace _01_mainSubject
         }
     }
 }
-// ctr+d komutu ıle dırek bır satırı alt satıra kopyalayabılıyoruzZ
+// ctr+d komutu ıle dırek bır satırı alt satıra kopyalayabılıyoruz.
